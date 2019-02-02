@@ -1,0 +1,40 @@
+.header2{
+    height: 102px;
+    text-align: center;
+    padding-top: 30px;
+}
+.h1{
+    font-size: 15px;
+}
+.h2{
+    font-size: 13px;
+}
+.row{
+    content: "";
+    display: table;
+    clear: both;
+    width: 100%;
+}
+.column1{
+    float:left;
+    padding-top:100px; 
+    width: 16.6666%;
+    height: 238px;
+    text-align: center;
+}
+.column2{
+    float:left;
+    padding-top:100px;
+    width: 33.3333%;
+    height: 238px;
+    text-align: center;
+}
+* {
+    box-sizing: border-box;
+  }
+
+.footer{
+    height: 102px;
+    padding-top: 35px;
+    text-align: center;
+}
